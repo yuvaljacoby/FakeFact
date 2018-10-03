@@ -1,7 +1,7 @@
 # FakeFact:
-## Check whether a yes/no question is true or not...
+Check whether a yes/no question is true or not...
 
-Examples:
+## Examples:
 * did George Clooney win academy award?
 * Is Jeruslaem the capaitel of Israel?
 * DId Microsoft bankrupt?
@@ -15,7 +15,7 @@ Examples:
 * Is Osama Ben laden dead?
 
 
-First Phase:
+## First Phase:
 1. Extract entity and fact we are looking for
 2. Search in the entity Wikipedia page the fact we are looking for
 3. Find "harder" questions and apply a second algorthim (only for questions the first simple algorthim answerd no)
